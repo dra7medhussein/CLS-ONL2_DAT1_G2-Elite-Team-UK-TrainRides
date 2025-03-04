@@ -4,9 +4,9 @@ Capstone Project: UK Train Rides
 3. Team Leader: Ahmed Hussein Ali Mustafa
 
 Team Work:
-1- Ahmed Hussein Ali Mustafa 
-2- Fatma Alzahraa Galal Abd-elsalam Soliman
-3- Heba Tallah Talaat Ezzat Ibrahim 
-4- Kareman Mohamed Mahmoud Awad 
+1. Ahmed Hussein Ali Mustafa 
+2. Fatma Alzahraa Galal Abd-elsalam Soliman
+3. Heba Tallah Talaat Ezzat Ibrahim 
+4. Kareman Mohamed Mahmoud Awad 
 
 
