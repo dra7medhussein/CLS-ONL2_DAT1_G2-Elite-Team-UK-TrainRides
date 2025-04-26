@@ -1,4 +1,4 @@
-Capstone Project: UK Train Rides
+Project: UK Train Rides
 1. Team Name: Elite Team
 2. Selected Project: Project Idea 6: (Outstanding): UK Train Rides.
 3. Team Leader: Ahmed Hussein Ali Mustafa
