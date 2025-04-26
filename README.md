@@ -1,5 +1,4 @@
-Sponsorship
-Ministry of Communications and Information Technology (MCIT) Egypt
+Sponsorship: Ministry of Communications and Information Technology (MCIT) Egypt
 
 Digital Egypt Pioneers Initiative DEPI
 
