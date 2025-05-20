@@ -1,6 +1,6 @@
 Sponsorship: Ministry of Communications and Information Technology (MCIT) Egypt
 
-Digital Egypt Pioneers Initiative DEPI
+Digital Egypt Pioneers Initiative DEPI , CLS
 
 Project Idea 6: (Outstanding) UK Train Rides.
 
